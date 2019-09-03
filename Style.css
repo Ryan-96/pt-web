@@ -1,0 +1,23 @@
+h1 {
+  color: Blue;
+  background-color: Cyan;
+  border: 1px solid black;
+  text-shadow: 4px 4px 5px Gray;
+  text-align: center;
+  font-size: 40px;
+  font-family:"Impact";
+}
+h5 {
+  font-size: 17px;
+  text-decoration: underline;
+}
+
+Body {
+  border: 1px solid black;
+}
+
+p {
+  font-family:"Impact";
+  font-size: 15px;
+}
+a{ font-family: "Impact";}
