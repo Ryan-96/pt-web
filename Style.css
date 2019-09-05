@@ -1,6 +1,6 @@
 h1 {
   color: Silver;
-  background-color: Gray;
+  
   border: 1px solid black;
   text-shadow: 4px 4px 5px Black;
   text-align: center;
@@ -12,12 +12,13 @@ h5 {
   text-decoration: underline;
 }
 
-Body {
+body {
   border: 1px solid black;
 }
 
 p {
-  font-family:"Impact";
-  font-size: 15px;
+  font-family: "Impact";
+  font-size: 17px;
+  color: black;
 }
 a{ font-family: "Impact";}
