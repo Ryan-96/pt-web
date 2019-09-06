@@ -1,12 +1,13 @@
 h1 {
   color: Silver;
-  
+
   border: 1px solid black;
   text-shadow: 4px 4px 5px Black;
   text-align: center;
   font-size: 40px;
   font-family: "Impact";
 }
+
 h5 {
   font-size: 17px;
   text-decoration: underline;
@@ -22,7 +23,10 @@ p {
   color: black;
   text-align: center;
 }
-a{ font-family: "Impact";
-display: block;
-margin: 10px;
+
+a {
+  font-family: "Impact";
+  display: block;
+  margin: 10px;
+  float: left;
 }
