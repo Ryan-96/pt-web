@@ -23,10 +23,12 @@ p {
   color: black;
   text-align: center;
 }
+#imgcontainer{width: 2040px;
+margin: 0 auto;}
 
 a {
   font-family: "Impact";
   display: block;
-  margin: 15px;
+  margin: 10px;
   float: left;
 }
