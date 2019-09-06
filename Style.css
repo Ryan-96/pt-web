@@ -23,8 +23,11 @@ p {
   color: black;
   text-align: center;
 }
-#imgcontainer{width: 2040px;
-margin: 0 auto;}
+
+#imgcontainer {
+  width: 2040px;
+  margin-left: 50px;
+}
 
 a {
   font-family: "Impact";
