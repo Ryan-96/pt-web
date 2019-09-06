@@ -22,4 +22,7 @@ p {
   color: black;
   text-align: center;
 }
-a{ font-family: "Impact";}
+a{ font-family: "Impact";
+display: block;
+margin: 10px;
+}
